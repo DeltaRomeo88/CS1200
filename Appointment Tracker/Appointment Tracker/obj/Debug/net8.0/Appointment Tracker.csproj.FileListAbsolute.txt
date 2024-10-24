@@ -1,0 +1,14 @@
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/bin/Debug/net8.0/Appointment Tracker
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/bin/Debug/net8.0/Appointment Tracker.deps.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/bin/Debug/net8.0/Appointment Tracker.runtimeconfig.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/bin/Debug/net8.0/Appointment Tracker.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/bin/Debug/net8.0/Appointment Tracker.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.AssemblyInfoInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.AssemblyInfo.cs
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.csproj.CoreCompileInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/refint/Appointment Tracker.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/Appointment Tracker.genruntimeconfig.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Appointment Tracker/Appointment Tracker/obj/Debug/net8.0/ref/Appointment Tracker.dll
