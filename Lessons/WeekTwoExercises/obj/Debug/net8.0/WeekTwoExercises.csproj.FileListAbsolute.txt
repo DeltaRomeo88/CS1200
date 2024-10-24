@@ -1,0 +1,14 @@
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/bin/Debug/net8.0/WeekTwoExercises
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/bin/Debug/net8.0/WeekTwoExercises.deps.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/bin/Debug/net8.0/WeekTwoExercises.runtimeconfig.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/bin/Debug/net8.0/WeekTwoExercises.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/bin/Debug/net8.0/WeekTwoExercises.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.AssemblyInfoInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.AssemblyInfo.cs
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.csproj.CoreCompileInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/refint/WeekTwoExercises.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/WeekTwoExercises.genruntimeconfig.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_2/Exercises/Lessons/WeekTwoExercises/obj/Debug/net8.0/ref/WeekTwoExercises.dll
