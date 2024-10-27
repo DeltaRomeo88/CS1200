@@ -1,0 +1,14 @@
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/bin/Debug/net8.0/TempatureConvert
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/bin/Debug/net8.0/TempatureConvert.deps.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/bin/Debug/net8.0/TempatureConvert.runtimeconfig.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/bin/Debug/net8.0/TempatureConvert.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/bin/Debug/net8.0/TempatureConvert.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.AssemblyInfoInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.AssemblyInfo.cs
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.csproj.CoreCompileInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/refint/TempatureConvert.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/TempatureConvert.genruntimeconfig.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Temperature Converter/TempatureConvert/obj/Debug/net8.0/ref/TempatureConvert.dll
