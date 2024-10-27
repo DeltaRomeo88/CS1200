@@ -1,0 +1,14 @@
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/bin/Debug/net8.0/LearnerProfileRevisited
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/bin/Debug/net8.0/LearnerProfileRevisited.deps.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/bin/Debug/net8.0/LearnerProfileRevisited.runtimeconfig.json
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/bin/Debug/net8.0/LearnerProfileRevisited.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/bin/Debug/net8.0/LearnerProfileRevisited.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.AssemblyInfoInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.AssemblyInfo.cs
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.csproj.CoreCompileInputs.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/refint/LearnerProfileRevisited.dll
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.pdb
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/LearnerProfileRevisited.genruntimeconfig.cache
+/Users/dustinrose/Desktop/Atlas School/CS1200/Week_3/Exercises/LearnerProfileRevisited/LearnerProfileRevisited/obj/Debug/net8.0/ref/LearnerProfileRevisited.dll
